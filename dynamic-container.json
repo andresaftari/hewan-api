@@ -1,0 +1,16 @@
+{
+  "type": "Container",
+  "color": "#000000",
+  "alignment": "center",
+  "child": {
+    "type": "Text",
+    "data": "Container Dynamic",
+    "maxLines": 3,
+    "overflow": "ellipsis",
+    "style": {
+      "color": "#FFFFFF",
+      "fontSize": 14.0,
+      "fontWeight": "bold",
+    }
+  }
+}
